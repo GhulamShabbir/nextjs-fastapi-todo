@@ -1,0 +1,16 @@
+anyio
+click
+exceptiongroup
+fastapi
+h11
+httptools
+idna
+pydantic
+python-dotenv
+PyYAML
+sniffio
+starlette
+typing_extensions
+uvicorn
+watchfiles
+websockets
